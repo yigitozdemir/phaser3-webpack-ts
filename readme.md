@@ -2,7 +2,7 @@
 
 Just clone and start to develop your Phaser 3 - TypeScript project.
 
-Current Phaser Version: 3.10.0
+Current Phaser Version: 3.10.1
 
 ## Running Projects:
 npm install
